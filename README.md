@@ -30,4 +30,6 @@ Le modèle final (Random Forest) a été évalué sur :
 3. Lancer le notebook `Projet_Detection1.ipynb`.
 
 ---
-*Projet réalisé dans le cadre de ma formation en Analyse de Données à la FSTT.*
+Contributeurs : Moad Afylal & Sofyane Fritit.
+
+Projet académique de fin de module Machine Learning– Licence Analyse de Données, FSTT 2026.
