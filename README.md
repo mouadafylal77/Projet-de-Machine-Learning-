@@ -26,10 +26,10 @@ Le modèle final (Random Forest) a été évalué sur :
 
 ## 🚀 Comment l'utiliser
 1. Cloner le dépôt : `git clone https://github.com/mouadafylal77/Projet-de-Machine-Learning-.git`
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+2.![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 3. Installer les dépendances : `pip install pandas scikit-learn imblearn matplotlib seaborn`
 4. Lancer le notebook `projet_detection_defauts_industriels`.
 
